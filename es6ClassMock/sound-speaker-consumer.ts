@@ -1,4 +1,4 @@
-import SoundSpeaker from './sound-speaker';
+import SoundSpeaker from './manualMockedDir/sound-speaker';
 
 export default class SoundSpeakerConsumer {
   private soundSpeaker;
